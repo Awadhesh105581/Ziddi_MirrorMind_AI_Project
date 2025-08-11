@@ -1,1 +1,7 @@
-echo "config.py" > .gitignore
+__pycache__/
+*.pyc
+config.py
+.env
+*.mp3
+ziddi_voice.mp3
+.DS_Store
