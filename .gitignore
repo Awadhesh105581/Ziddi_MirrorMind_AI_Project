@@ -5,3 +5,4 @@ config.py
 *.mp3
 ziddi_voice.mp3
 .DS_Store
+*.whl 
